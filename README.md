@@ -1,7 +1,7 @@
 # ProbLight
 A Bayesian Computer Vision model that performs inverse rendering to extract lighting conditions from images. This project relies heavily on [Open3D](https://github.com/isl-org/Open3D), a python library for working with and rendering 3D objects.
 
-This work is a Final Project for MIT's "Cognitive Computational Science" course (9.66).
+This work is a Final Project for MIT's "Cognitive Computational Science" course (9.66). If interested, the research paper associated with this code is [here](https://drive.google.com/file/d/1SVYO5AmH1YqGw9wHCIHP1DnT96zDUBRF/view?usp=share_link).
 
 This code focuses on using Bayesian inference to find a light source from a given scene and its geometry.
 
